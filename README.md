@@ -11,6 +11,7 @@ Soy un desarrollador apasionado por el desarrollo web y la optimización de proc
 
 - **StuOrganizer**: Aplicación web para gestionar tareas y eventos de estudiantes.
 - **Itzchel**: Herramienta para que los profesores sigan el progreso de sus clases.
+- **Kaab**:Plataforma IoT para el monitoreo inteligente de abejas
 
 ## 🌱 **Lo que Estoy Aprendiendo**
 
