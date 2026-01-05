@@ -2,7 +2,7 @@ Soy un desarrollador apasionado por el desarrollo web y la optimización de proc
 
 ## 🧑‍💻 **Habilidades**
 
-- **Lenguajes**: TypesScript, PHP, Python, SQL
+- **Lenguajes**: TypeScript, PHP, Python, SQL
 - **Frameworks**: React, NestJS,express
 - **Bases de Datos**: MySQL,MongoDB, Redis, Supabase
 - **Herramientas**: Git, WAMP, Linux Mint, Arch Linux,Ubuntu
